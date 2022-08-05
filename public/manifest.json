@@ -1,0 +1,51 @@
+{
+  "icons": [
+    {
+      "src": "public/icons/icon-72x72png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icons/icon-96x96png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icons/icon-128x128png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icons/icon-144x144png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icons/icon-152x152png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icons/icon-192x192png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icons/icon-384x384png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icons/icon-512x512png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Budget Tracker",
+  "short_name": "Budget",
+  "description": "The best app to budget your life",
+  "theme_color": "#000080",
+  "background_color": "ccccff",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
